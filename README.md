@@ -63,8 +63,8 @@
   </header>
 
   <section>
-    <h2>🎮 P-Town Stories</h2>
-    <p>A GTA-style game based in Pokhara, Nepal. Inspired by the streets I grew up around and the games I love.</p>
+    <h2>Crimson Verdict</h2>
+    <p>A GTA-style game based in Pokhara, Nepal. Inspired by the streets and the games I love.</p>
     <p>More info coming soon...</p>
   </section>
 
